@@ -1,0 +1,38 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="filenew.png">images/document-new.png</file>
+<file alias="fileopen.png">images/document-import.png</file>
+<file alias="filesave.png">images/document-save.png</file>
+<file alias="filesaveas.png">images/document-save-as.png</file>
+<file alias="fileprint.png">images/printer.png</file>
+<file alias="filegetdata.png">images/internet-web-browser.png</file>
+
+<file alias="filequit.png">images/system-shutdown.png</file>
+
+
+
+<file alias="pluszoom.png">images/zoom-in.png</file>
+<file alias="minuszoom.png">images/zoom-out.png</file>
+<file alias="restorezoom.png">images/zoom-original.png</file>
+
+
+<file alias="view1.png">images/view-list-tree.png</file>
+<file alias="view2.png">images/view-refresh.png</file>
+
+<file alias="control1.png">images/view-list-tree.png</file>
+<file alias="control2.png">images/view-refresh.png</file>
+
+<file alias="analysis1.png">images/view-list-tree.png</file>
+<file alias="analysis2.png">images/view-refresh.png</file>
+
+
+<file alias="helpabout.png">images/help-about.png</file>
+<file alias="helpfile.png">images/emblem-important.png</file>
+
+
+
+<file>help/editmenu.html</file>
+<file>help/filemenu.html</file>
+<file>help/index.html</file>
+</qresource>
+</RCC>
